@@ -1,0 +1,20 @@
+{
+  "name": "bpmn-js-custom-palette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "bpmn-js": "8.5.0",
+    "bpmn-js-properties-panel": "0.43.0",
+    "camunda-bpmn-moddle": "5.1.2"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
